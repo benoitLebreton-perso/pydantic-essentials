@@ -1,0 +1,12 @@
+name: pydanticv2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pydantic
+  - pytest=8.2.2
+  - email-validator
+  - python-dateutil
+  - pytz
+  - requests
+  - datamodel-code-generator
